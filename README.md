@@ -604,7 +604,7 @@ Name           | Address
 [Шапокляк](https://tonviewer.com/0:dae7ec8ede6d0fa22b80683b51b8d9bf33f9d43240355f7a7d7302978e4dbae8) | EQDa5-yO3m0PoiuAaDtRuNm_M_nUMkA1X3p9cwKXjk266NL7
 [матрёшка](https://tonviewer.com/0:905737d037268c177108eaed19b7b51672deaee90545de7fa73d406ed07aa979) | EQCQVzfQNyaMF3EI6u0Zt7UWct6u6QVF3n-nPUBu0HqpedY-
 [чебурашка](https://tonviewer.com/0:01c45623198e2ab98476c124a5b6263b99ff4b00d222aed93fbbff88f5e88246) | EQABxFYjGY4quYR2wSSltiY7mf9LANIirtk_u_-I9eiCRiry
-
+[MARS](https://tonviewer.com/0:5707383c72f4552d3918ac0eda030dfca3742df5c8e7e41f9bf385f16fa623f4) | EQBXBzg8cvRVLTkYrA7aAw38o3Qt9cjn5B-b84Xxb6Yj9KK6
 
 ## Structure
 
